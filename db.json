@@ -1,4 +1,6 @@
 {
-  "accessToken": "someTestAccessToken",
-  "refreshToken": "someTestRefreshToken"
+  "authResponse": {
+    "accessToken": "someTestAccessToken",
+    "refreshToken": "someTestRefreshToken" 
+  }
 }
